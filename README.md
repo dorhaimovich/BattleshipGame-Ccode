@@ -22,4 +22,4 @@ you got:
 
 *if you choose same spot that was already chosen, or an unvalid spot - you lose your turn.
 
-Have fun.
+Have fun and dont you forget to coment me.
