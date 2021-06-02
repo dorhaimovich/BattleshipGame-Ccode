@@ -1,8 +1,12 @@
 # BattleshipGame-Ccode
 A nice "BattleshipGame" project that my friend and I programmed for collage as a first year students. 
+
 We used "Visual Studio Code" and GCC compiler.
+
 It was a submission project so we needed to do some coding by the Instructions.
+
 for playing the game you need to run the exe with 3 files, first file for player 1 board, second for player 2 and third for simulation.
+
 I added a simulation file and a board file that you should upload and you can make changes inside (it needed to be writen same as in the files).
 
 instruction:
