@@ -11,7 +11,7 @@ you got:
 * 3 ships sized 2.
 * 2 ships sized 3.
 * 1 ship sized 4.
-//
+* 
 *make sure that the ships does not borderring or on top of each other.
 *if you hit a ship you got another turn.
 *if you choose same spot that was already chosen, or an unvalid spot - you lose your turn.
