@@ -5,9 +5,11 @@ We used "Visual Studio Code" and GCC compiler.
 
 It was a submission project so we needed to do some coding by the Instructions.
 
-for playing the game you need to run the exe with 3 files, first file for player 1 board, second for player 2 and third for simulation.
+for playing the game you can compile the project by using the makefile (just write "make" at the Terminal), then you need to run the game with 3 files.
+you can use that line for execute the game: .\Battleship.exe Board1.txt Board2.txt Simulation.txt 
+first file for player 1 board, second file for player 2 board and third for simulation run.
 
-I added a simulation file and a board file that you should upload and you can make changes inside (it needed to be writen same as in the files).
+you can make changes in the board files but make sure that you change it according to the guidelines so it will work (it needed to be writen same as in the files).
 
 instruction:
 you got:
