@@ -14,6 +14,7 @@ first file for player 1 board, second for player 2 board and third for simulatio
 you can make changes in the board files but make sure that you change it according to the guidelines so it will work (it needed to be writen same as in the files).
 
 instruction:
+
 you got:
 * 4 ships sized 1.
 * 3 ships sized 2.
