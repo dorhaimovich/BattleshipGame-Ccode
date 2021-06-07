@@ -6,6 +6,7 @@ We used "Visual Studio Code" and GCC compiler.
 It was a submission project so we needed to do some coding by the Instructions.
 
 for playing the game you can compile the project by using the makefile (just write "make" at the Terminal), then you need to run the game with 3 files.
+
 you can use that line for execute the game: .\Battleship.exe Board1.txt Board2.txt Simulation.txt 
 first file for player 1 board, second file for player 2 board and third for simulation run.
 
