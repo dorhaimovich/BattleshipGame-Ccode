@@ -9,7 +9,7 @@ For playing the game you can compile the project by using the makefile (just wri
 
 You can use this line to execute the game: .\Battleship.exe Board1.txt Board2.txt Simulation.txt
 
-first file for player 1 board, second file for player 2 board and third for simulation run.
+first file for player 1 board, second for player 2 board and third for simulation run.
 
 you can make changes in the board files but make sure that you change it according to the guidelines so it will work (it needed to be writen same as in the files).
 
